@@ -1,0 +1,7 @@
+flask
+prometheus-flask-exporter
+streamlit
+pandas
+numpy
+networkx
+plotly
