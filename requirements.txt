@@ -1,5 +1,4 @@
-flask
-prometheus-flask-exporter
+
 streamlit
 pandas
 numpy
